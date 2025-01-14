@@ -1,3 +1,11 @@
+// This code made by group 5:
+// Ahmad Fillah Alwy, 
+// M Ridho Ramadham, 
+// Akmal Harizulhaq,
+// Ardhis Parahita,
+// Nathan Farroz Kusuma Barracuda
+// Sepvilia Fahturahma
+
 #include <SPI.h>
 #include <MFRC522.h>
 #include <ESP8266WiFi.h>
